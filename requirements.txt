@@ -1,0 +1,7 @@
+python-telegram-bot
+pymongo
+pandas
+openpyxl
+pyotp
+flask
+
